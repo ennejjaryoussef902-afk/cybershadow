@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambienti virtuali
+venv/
+env/
+
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
+
+# File generati dallo script
+index.html

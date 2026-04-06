@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# CyberShadow Logs & Clones
+moduli/website_cloning/log/*.txt
+moduli/website_cloning/cloned_sites/active_site/*
+!moduli/website_cloning/cloned_sites/active_site/.gitkeep
+
+# Windows
+Thumbs.db
+Desktop.ini

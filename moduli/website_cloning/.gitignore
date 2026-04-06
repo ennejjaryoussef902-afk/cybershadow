@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cartelle di Mirroring (Non caricare i siti clonati)
+moduli/website_cloning/cloned_sites/*
+!moduli/website_cloning/cloned_sites/.gitkeep
+
+# Cartelle di Log (NON caricare i dati intercettati!)
+moduli/website_cloning/log/*.log
+moduli/website_cloning/log/*.txt
+
+# Ambienti Virtuali
+venv/
+env/
+.env
+
+# File di Sistema
+.DS_Store
+Thumbs.db

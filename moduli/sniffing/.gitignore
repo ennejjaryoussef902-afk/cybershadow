@@ -1,0 +1,25 @@
+# Python bytecode (file compilati)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtuale
+venv/
+env/
+ENV/
+
+# File di sicurezza del Terminale (IMPORTANTE)
+.pass
+.secret
+
+# Log e file di traffico estratti
+traffico_estratto.txt
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Configurazioni IDE
+.vscode/
+.idea/

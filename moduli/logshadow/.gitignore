@@ -1,0 +1,4 @@
+# Ignora solo i log generati, non il codice
+logshadow/*.log
+activity.log
+__pycache__/

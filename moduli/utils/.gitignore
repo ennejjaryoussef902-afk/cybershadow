@@ -1,0 +1,13 @@
+# Sicurezza (MAI caricare questi su GitHub)
+.pass
+.secret
+__pycache__/
+*.py[cod]
+
+# Dati estratti
+traffico_estratto.txt
+*.log
+
+# Ambiente
+venv/
+.env
