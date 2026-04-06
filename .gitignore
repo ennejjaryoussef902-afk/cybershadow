@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Database e Log CyberShadow
+instance/
+*.db
+logshadow/*.log
+captured_creds.txt
+index.html
+moduli/deHasing/deHasing.txt
+
+# Build e Ambiente
+dist/
+build/
+*.spec
+.venv/
